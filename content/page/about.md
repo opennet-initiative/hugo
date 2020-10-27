@@ -1,19 +1,10 @@
 ---
-title: About me
+title: Ueber Opennet
 subtitle: Why you'd want to hang out with me
 comments: false
 ---
 
-My name is The Dude. I have the following qualities:
-
-- I rock a great beard
-- I'm extremely loyal to my friends
-- I like bowling
-
-That rug really tied the room together.
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you
-just watch [my movie](https://en.wikipedia.org/wiki/The_Big_Lebowski) and it
-will answer **all** your questions.
+*Opennet Initiative e.V.*
+Der Verein Opennet Initiative hat sich zur Aufgabe gemacht freie und offene Kommunikationsinfrastrukturen zu fördern. 
+Begonnen hat alles im Rostocker Stadtteil Kröpeliner Tor-Vorstadt (KTV). 
+Inzwischen möchten wir insbesondere den ländlichen Raum für Breitband-Internet zugänglich machen und freies WLAN an frequentierten Plätzen zu Verfügung zu stellen.
