@@ -1,10 +1,11 @@
 ---
-title: Ueber Opennet
-subtitle: Why you'd want to hang out with me
+title: Ãœber Opennet
+subtitle: Ein freies Kommunikationsnetz im Eigenbau... wann surfst Du mit Opennet?
 comments: false
 ---
 
-*Opennet Initiative e.V.*
-Der Verein Opennet Initiative hat sich zur Aufgabe gemacht freie und offene Kommunikationsinfrastrukturen zu fördern. 
-Begonnen hat alles im Rostocker Stadtteil Kröpeliner Tor-Vorstadt (KTV). 
-Inzwischen möchten wir insbesondere den ländlichen Raum für Breitband-Internet zugänglich machen und freies WLAN an frequentierten Plätzen zu Verfügung zu stellen.
+***Opennet Initiative e.V.***
+
+Der Verein Opennet Initiative hat sich zur Aufgabe gemacht freie und offene Kommunikationsinfrastrukturen zu fÃ¶rdern. 
+Begonnen hat alles im Rostocker Stadtteil KrÃ¶peliner Tor-Vorstadt (KTV). 
+Inzwischen mÃ¶chten wir insbesondere den lÃ¤ndlichen Raum fÃ¼r Breitband-Internet zugÃ¤nglich machen und freies WLAN an frequentierten PlÃ¤tzen zu VerfÃ¼gung zu stellen.

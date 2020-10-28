@@ -17,7 +17,7 @@ pygmentCodeFences = true
   subtitle = "Freifunk nach Mecklenburger Art"
   logo = "img/avatar-icon.png"
   favicon = "img/favicon.ico"
-  dateFormat = "January 2, 2006"
+  dateFormat = "January 2, 2020"
   commit = false
   rss = true
   comments = false
@@ -58,11 +58,11 @@ pygmentCodeFences = true
 
 [[menu.main]]
     name = "Blog"
-    url = ""
+    url = "https://stadtgestalten.org/opennet/"
     weight = 1
 
 [[menu.main]]
-    name = "Ueber uns"
+    name = "Über uns"
     url = "page/about/"
     weight = 2
 

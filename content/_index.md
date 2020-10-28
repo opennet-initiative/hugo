@@ -1,9 +1,9 @@
-## Front Page Content
+## Ein freies Kommunikationsnetz im Eigenbau -- wann surfst Du mit Opennet?
 
-This website is powered by [GitLab Pages](https://about.gitlab.com/features/pages/)
-/ [Hugo](https://gohugo.io) and can be built in under 1 minute.
-Literally. It uses the `beautifulhugo` theme which supports content on your front page.
-Edit `/content/_index.md` to change what appears here. Delete `/content/_index.md`
-if you don't want any content here.
 
-Head over to the [GitLab project](https://gitlab.com/pages/hugo) to get started.
+Unter dem Motto "Klare Luft, freie Netze" bauen wir in Rostock und Umgebung ein freies Funknetz auf. Der Anfang 2005 gegründete Verein "Opennet Initiative" hat es sich zur Aufgabe gemacht, 
+freie und offene Kommunikationsinfrastrukturen zu fördern. Dabei setzen die Vereinsmitglieder auf WLAN-Technik und die Vernetzung von Dach zu Dach und Haus zu Haus. 
+Mit jedem neuen Knoten wächst das Netz ein kleines Stück weiter. Heute sind über 200 Teilnehmer in Rostock, Schwerin, Wismar und weiteren Gemeinden in Mecklenburg-Vorpommern aktiv.
+
+
+**Kontaktaufnahme:** Komm zum [Rostocker Montagstreffen](https://stadtgestalten.org/opennet/rostocker-montagstreffen/) oder schreib uns eine [Nachricht](https://wiki.opennet-initiative.de/wiki/Spezial:Kontakt).
