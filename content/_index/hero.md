@@ -6,30 +6,29 @@ weight = 50
 background = "light" # can influence the text color
 particles = true
 
-title = "Opennet initiative"
-subtitle = "Freifunk nach Mecklenburger Art"
+title = "Syna Theme"
+subtitle = "Showcase your next project"
 
 [header]
   image = "header.jpg"
 
 [asset]
   image = "logo.svg"
-  width = "800px" # optional - will default to image width
+  width = "500px" # optional - will default to image width
   #height = "150px" # optional - will default to image height
 
 [[buttons]]
-  text = "Blog"
+  text = "Button"
   url = "#"
-  color = "primary" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
+  color = "info" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
 
 [[buttons]]
-  text = "Wiki"
+  text = "Download"
   url = "https://github.com/okkur/syna/releases"
-  color = "secondary"
+  color = "primary"
 
 [[buttons]]
-  text = "Karte"
+  text = "Button"
   url = "#"
-  color = "dark"
-
+  color = "success"
 +++
