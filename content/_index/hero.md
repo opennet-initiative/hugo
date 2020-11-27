@@ -4,10 +4,10 @@ fragment = "hero"
 date = "2016-09-07"
 weight = 50
 background = "light" # can influence the text color
-particles = true
+particles = false
 
-title = "Syna Theme"
-subtitle = "Showcase your next project"
+title = "Opennet Initiative"
+subtitle = "Freifunk nach Mecklenburger Art"
 
 [header]
   image = "header.jpg"

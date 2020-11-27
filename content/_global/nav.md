@@ -13,5 +13,5 @@ weight = 0
 # Branding options
 [asset]
   image = "logo.svg"
-  text = "Syna"
+  text = "Opennet Initiave e.V."
 +++
