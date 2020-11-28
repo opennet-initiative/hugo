@@ -2,11 +2,11 @@
 fragment = "item"
 #disabled = false
 date = "2017-10-04"
-weight = 350
-background = "secondary"
+weight = 150
+background = "light"
 align = "right"
 
-title = "Unser Blog auf stadtgestalten.org"
+title = "Unsere Neuigkeiten auf stadtgestalten.org"
 #subtitle= "Easily right align the item fragment even with an image"
 
 # Subtitle pre and post item

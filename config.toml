@@ -1,7 +1,7 @@
 # Site settings
 baseurl = "/"
 languageCode = "en-us"
-title = "Okkur - Syna"
+title = "Opennet Initiative e.V."
 theme = "syna"
 enableGitInfo = true
 version = "0.17.3"
@@ -54,7 +54,7 @@ lastmod = ["lastmod", ":git", "date"]
 
   [params.colors]
     primary = "#176FC1FF"
-    secondary = "#868e96"
+    secondary = "#83A7DD"
     success = "#008f54"
     info = "#00c9dc"
     warning = "#fdf314"
@@ -96,7 +96,11 @@ lastmod = ["lastmod", ":git", "date"]
   weight = 10
 
 [[menu.copyright_footer]]
-  url = "#"
+  url = "https://wiki.opennet-initiative.de/"
   name = "Wiki"
   weight = 30
 
+[[menu.copyright_footer]]
+  url = "/impressum"
+  name = "Impressum"
+  weight = 40
