@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "/www-testing/"
+baseurl = "/" 
 languageCode = "en-us"
 title = "Opennet Initiative e.V."
 theme = "syna"
