@@ -5,5 +5,5 @@ weight = 20
 
 [asset]
   icon = "fas fa-chart-bar"
-  url = "#"
+  url = "https://monitor.opennet-initiative.de/"
 +++
