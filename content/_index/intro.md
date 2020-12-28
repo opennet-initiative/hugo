@@ -11,4 +11,5 @@ subtitle = ""
 
 
 +++
-Unter dem Motto "Klare Luft, freie Netze" bauen wir in Rostock und Umgebung ein freies Funknetz auf. Der Anfang 2005 gegründete Verein "Opennet Initiative" hat es sich zur Aufgabe gemacht, freie und offene Kommunikationsinfrastrukturen zu fördern. Dabei setzen die Vereinsmitglieder auf WLAN-Technik und die Vernetzung von Dach zu Dach und Haus zu Haus. Mit jedem neuen Knoten wächst das Netz ein kleines Stück weiter. Heute sind über 200 Teilnehmer in Rostock, Schwerin, Wismar und weiteren Gemeinden in Mecklenburg-Vorpommern aktiv.
+<p align="justify">
+Unter dem Motto "Klare Luft, freie Netze" bauen wir in Rostock und Umgebung ein freies Funknetz auf. Der Anfang 2005 gegründete Verein "Opennet Initiative" hat es sich zur Aufgabe gemacht, freie und offene Kommunikationsinfrastrukturen zu fördern. Dabei setzen die Vereinsmitglieder auf WLAN-Technik und die Vernetzung von Dach zu Dach und Haus zu Haus. Mit jedem neuen Knoten wächst das Netz ein kleines Stück weiter. Heute sind über 200 Teilnehmer in Rostock, Schwerin, Wismar und weiteren Gemeinden in Mecklenburg-Vorpommern aktiv.</p>
