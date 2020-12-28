@@ -1,6 +1,6 @@
 # Site settings
 baseurl = "/" 
-languageCode = "en-us"
+languageCode = "de-de"
 title = "Opennet Initiative e.V."
 theme = "syna"
 enableGitInfo = true
@@ -24,8 +24,8 @@ lastmod = ["lastmod", ":git", "date"]
      unsafe = true
 
 [params]
-  name = "Okkur Labs"
-  description = "Open Source Theme for your next project"
+  name = "Opennet Initiative"
+  description = "Klare Luft, freie Netze"
 
   [params.style]
     #background = "secondary"
@@ -71,6 +71,11 @@ lastmod = ["lastmod", ":git", "date"]
   weight = 10
 
 [[menu.main]]
+  url =  "https://wiki.opennet-initiative.de/"
+  name = "Wiki"
+  weight = 20
+
+[[menu.main]]
   url = "/contact"
   name = "Kontakt"
   weight = 30
@@ -95,10 +100,11 @@ lastmod = ["lastmod", ":git", "date"]
   name = "Kontakt"
   weight = 10
 
+
 [[menu.copyright_footer]]
-  url = "https://wiki.opennet-initiative.de/"
-  name = "Wiki"
-  weight = 30
+  url = "/datenschutz"
+  name = "Datenschutz"
+  weight = 35
 
 [[menu.copyright_footer]]
   url = "/impressum"
