@@ -8,4 +8,5 @@ weight = 10
   url = "https://map.opennet-initiative.de/"
 +++
 
-Super tolle Karte von allen Spots
+<p align="justify"> Um einen Überblick über das gesamte Netz zu erhalten, gibt es eine interaktive Karte. Auf Basis von openstreetmap sind hier nicht nur alle Nodes zu sehen, sondern auch wichtige Informationen über deren Verbindung. 
+Über die Legende lassen sich hierüber auch historische Daten anzeigen. Bspw. Nodes welche offline sind.</p>
