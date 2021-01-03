@@ -19,8 +19,4 @@ title = "Unsere Neuigkeiten auf stadtgestalten.org"
 
 Neuesten Blogeinträge:
 
- * <a href="https://stadtgestalten.org/opennet/opennet-montagstreffen-23112020/">Opennet Montagstreffen (23.11.2020) </a>
- * <a href="https://stadtgestalten.org/opennet/rostock-hat-wieder-ein-lorawan-gateway/"> Rostock hat wieder ein LoRaWAN-Gateway </a>
- * <a href="https://stadtgestalten.org/opennet/opennet-montagstreffen-am-09112020/"> Opennet Montagstreffen am 09.11.2020 </a>
- * <a href="https://stadtgestalten.org/opennet/opennet-montagstreffen-am-26102020/"> Opennet Montagstreffen am 26.10.2020 </a>
-
+{{< grabpage "posts/oni-rss-post.md" >}}
