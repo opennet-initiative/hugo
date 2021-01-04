@@ -8,4 +8,5 @@ weight = 30
   url = "https://wiki.opennet-initiative.de"
 +++
 
-Super tolle Karte von allen spots
+<p align="justify"> In den vergangenen Jahren hat sich so Einiges an Wissen angehäuft. Um hier einen Überblick zu behalten und es Neueinsteigern einfach zu machen, führen wir ein umfangreiches Wiki. 
+Hier sind alle relvanten Links zu finden, Beschreibungen der verschiedensten Kopnfiguationen und auch Dokumentationen bestehender Projekte.</p>
