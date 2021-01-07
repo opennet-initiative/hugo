@@ -7,5 +7,4 @@ md_text=$(./on-rss2md.py) || exit $?
 
 echo ${md_text} > content/posts/oni-rss-post.md
 
-cd $HUGO_PATH
 hugo && rsync -avz --delete public/ ${HTDOCS}
