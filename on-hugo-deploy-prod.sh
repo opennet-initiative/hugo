@@ -2,9 +2,7 @@
 
 HTDOCS=/var/www/www.opennet-initiative.de/
 
-#get RSS abstract and exit this script on failure
-md_text=$(./on-rss2md.py) || exit $?
-
-echo ${md_text} > content/posts/oni-rss-post.md
+#generate RSS abstract. Exit this script on failure
+./on-rss2md.py > content/posts/oni-rss-post.md || exit $?
 
 hugo && rsync -avz --delete public/ ${HTDOCS}
