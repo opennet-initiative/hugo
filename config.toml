@@ -73,7 +73,7 @@ lastmod = ["lastmod", ":git", "date"]
   weight = 20
 
 [[menu.main]]
-  url = "/contact"
+  url = "https://wiki.opennet-initiative.de/wiki/Spezial:Kontakt"
   name = "Kontakt"
   weight = 30
 
