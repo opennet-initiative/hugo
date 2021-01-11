@@ -9,4 +9,4 @@ weight = 30
 +++
 
 <p align="justify"> In den vergangenen Jahren hat sich so Einiges an Wissen angehäuft. Um hier einen Überblick zu behalten und es Neueinsteigern einfach zu machen, führen wir ein umfangreiches Wiki. 
-Hier sind alle relvanten Links zu finden, Beschreibungen der verschiedensten Kopnfiguationen und auch Dokumentationen bestehender Projekte.</p>
+Hier sind alle relevanten Links zu finden, Beschreibungen der verschiedensten Konfigurationen und auch Dokumentationen bestehender Projekte.</p>
