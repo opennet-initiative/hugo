@@ -93,17 +93,17 @@ lastmod = ["lastmod", ":git", "date"]
   weight = 30
 
 [[menu.copyright_footer]]
-  url = "/contact"
+  url = "https://wiki.opennet-initiative.de/wiki/Spezial:Kontakt"
   name = "Kontakt"
   weight = 10
 
 
 [[menu.copyright_footer]]
-  url = "/datenschutz"
+  url = "https://wiki.opennet-initiative.de/wiki/Opennet:Datenschutz"
   name = "Datenschutz"
   weight = 35
 
 [[menu.copyright_footer]]
-  url = "/impressum"
+  url = "https://wiki.opennet-initiative.de/wiki/Opennet:Impressum"
   name = "Impressum"
   weight = 40
