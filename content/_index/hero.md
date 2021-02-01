@@ -10,7 +10,7 @@ title = "Opennet Initiative"
 subtitle = "Freifunk nach Mecklenburger Art"
 
 [header]
-  image = "header_new.jpg"
+  image = "header_new_light.jpg"
 
 [asset]
   image = "logo.svg"
