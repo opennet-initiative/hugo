@@ -11,6 +11,10 @@ title = "Unsere Neuigkeiten auf stadtgestalten.org"
   image = "stadtgestalten.png"
 +++
 
+Nächte Verstaltung:
+
+{{< grabpage "posts/oni-ics-events.md" >}}
+
 Neuesten Blogeinträge:
 
 {{< grabpage "posts/oni-rss-post.md" >}}
