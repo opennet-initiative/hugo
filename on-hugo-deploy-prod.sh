@@ -8,4 +8,6 @@ HTDOCS=/var/www/www.opennet-initiative.de/
 #generate next event list
 ./on-ics2md.py > content/posts/oni-ics-events.md || exit $?
 
-/usr/local/bin/hugo && rsync -avz --delete public/ ${HTDOCS}
+/usr/local/bin/hugo --quiet || exit $?
+
+rsync -avzq --delete public/ ${HTDOCS} || exit $?
