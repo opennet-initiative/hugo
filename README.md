@@ -6,7 +6,7 @@ Syna 0.17.4. benötigt mindestens Hugo 0.76.
 
 ## Installation
 
-Siehe ansible /on_ansible/roles/www-frontpage
+Siehe https://github.com/opennet-initiative/ansible/ roles/www-frontpage
 
 ## Einbindung Blogeinträge
 
