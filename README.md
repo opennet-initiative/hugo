@@ -1,4 +1,4 @@
-Hier findest du die Startseiten von https://www.opennet-initiative.de
+Hier findest du die Startseiten von https://www2.opennet-initiative.de
 
 Die Seite wird mit https://hugo.io erstellt und nutzt das Thema Syna (https://about.okkur.org/syna/).
 
@@ -6,7 +6,7 @@ Syna 0.17.4. benötigt mindestens Hugo 0.76.
 
 ## Installation
 
-Siehe ansible ttp://dev.on-i.de/browser/on_ansible/roles/www-frontpage
+Siehe ansible /on_ansible/roles/www-frontpage
 
 ## Einbindung Blogeinträge
 
@@ -24,9 +24,6 @@ Der Ablauf hierfür ist folgender:
   * kopiert die neuen Dateien in das Apache www Verzeichnis
 * Deployment Skript wird als Cronjob täglich gestartet
 
-
-
 ## Weitere Dokumentation
 
 Es gibt weitere Dokumentation im Wiki unter https://wiki.opennet-initiative.de/wiki/Startseite_Webauftritt#Entwicklung
-
