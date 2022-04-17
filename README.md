@@ -8,6 +8,8 @@ Syna 0.17.4. benötigt mindestens Hugo 0.76.
 
 Siehe https://github.com/opennet-initiative/ansible/ roles/www-frontpage
 
+Bei einer Aktualisierung kann nochmals Opennet ansible aufgerufen werden, so dass dieses Repository auf unseren Servern aufgefrischt wird.
+
 ## Einbindung Blogeinträge
 
 Eine Anforderung an die Webseite war das Anzeigen der letzten Blogeinträge. Diese sollten ausschnittsweise auf der Seite angezeigt werden.
