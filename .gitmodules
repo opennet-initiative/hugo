@@ -1,3 +1,4 @@
 [submodule "themes/syna"]
 	path = themes/syna
 	url = https://github.com/okkur/syna
+	branch = master
